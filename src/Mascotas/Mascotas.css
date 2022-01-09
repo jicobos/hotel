@@ -1,0 +1,7 @@
+.mascota{
+    background-color: rgba(72, 255, 0, 0.432);
+    border-style: dashed;
+    border-color: red;
+    width: 400px;
+    margin-bottom: 20px;
+}

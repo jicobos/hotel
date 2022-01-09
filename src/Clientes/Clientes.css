@@ -1,0 +1,7 @@
+.cliente{
+    background-color: rgba(0, 0, 255, 0.356);
+    border-style: dashed;
+    border-color: red;
+    width: 400px;
+    margin-bottom: 20px;
+}

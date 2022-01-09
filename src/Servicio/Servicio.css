@@ -1,0 +1,7 @@
+.servicio{
+    background-color: rgba(255, 0, 255, 0.432);
+    border-style: dashed;
+    border-color: rgb(92, 173, 0);
+    width: 400px;
+    margin-bottom: 20px;
+}
